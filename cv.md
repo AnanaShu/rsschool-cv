@@ -13,3 +13,39 @@
 I don't have any developer experience, but I really wish!
 I'll try to get all of my strengths.
 A couple years I was studying Java but now I have decided to choose the frontend way.
+
+## <span style="color:#59afe1">Skills</p>
+
+- **Git/GitHub**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Command line**
+
+## <span style="color:#59afe1">Code Example</p>
+
+```
+//output of data entered by the user
+
+document.querySelector(".button-3").addEventListener("click",
+    function () {
+        const userName = document.querySelector(".item-3").value;
+        document.querySelector(".out-2").innerHTML = "Hi, " + clearText(userName) + "!";
+        console.log("Hi, " + clearText(userName) + "!");
+    });
+
+function clearText(data) {
+    return data.trim().toLowerCase();
+}
+
+```
+
+### Courses:
+
+| Course              |                              Topic                              |
+| ------------------- | :-------------------------------------------------------------: |
+| **Stepik courses:** | HTML and CSS basics; CSS Flexbox; ntroduction to the Data base. |
+| **Hexlet**          |                Git, gitHub; Command Line Basics.                |
+| **English**         |                         A2 ---> B1 [^1]                         |
+
+[^1]: (I continue to learn with 2 teachers 4 times/week).
