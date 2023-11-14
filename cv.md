@@ -8,13 +8,13 @@
 - **Discord-name:** _AnastasiiaShved (@AnanaShu)_
 - **GitHub:** _[AnanaShu](https://github.com/AnanaShu/)_
 
-## <span style="color:#59afe1">About me</p>
+## <span style="color:#59afe1">About me</span>
 
 I don't have any developer experience, but I really wish!
 I'll try to get all of my strengths.
 A couple years I was studying Java but now I have decided to choose the frontend way.
 
-## <span style="color:#59afe1">Skills</p>
+## <span style="color:#59afe1">Skills:</span>
 
 - **Git/GitHub**
 - **HTML**
@@ -22,7 +22,7 @@ A couple years I was studying Java but now I have decided to choose the frontend
 - **JavaScript**
 - **Command line**
 
-## <span style="color:#59afe1">Code Example</p>
+## <span style="color:#59afe1">Code Example:</span>
 
 ```
 //output of data entered by the user
@@ -40,7 +40,7 @@ function clearText(data) {
 
 ```
 
-### Courses:
+### <span style="color:#59afe1">Courses:</span>
 
 | Course              |                              Topic                              |
 | ------------------- | :-------------------------------------------------------------: |
