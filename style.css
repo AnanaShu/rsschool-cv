@@ -1,0 +1,68 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+* {
+    color: #141111;
+}
+
+h1 {
+    color: #0e3aab;
+    margin-bottom: 0, 25em;
+}
+
+h2 {
+    color: #141111;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h3 {
+    color: #0e3aab;
+}
+
+a {
+    color: blue;
+}
+
+section {
+    margin-bottom: 3em;
+}
+
+.cv {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.contacts {
+    margin-bottom: 2em;
+}
+
+.contact {
+    display: flex;
+}
+
+.contact_type {
+    min-width: 90px;
+}
+
+.course {
+    display: flex;
+    margin-bottom: 2em;
+}
+
+.course_name {
+    font-weight: bold;
+}
+
+.course_date {
+    margin-bottom: 1em;
+    min-width: 185px;
+}
+
+@media (max-width: 575px) {
+    .course {
+        display: block;
+    }
+}
